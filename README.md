@@ -3,9 +3,10 @@ Apple Opensource
 
 可编译的苹果开源基础库，需要使用 [Additional SDK](https://github.com/longv2go/iPhoneOS_Additional_SDK)。
 
-# 变更
 
-## libmalloc
+# libmalloc
+
+## 变更
 
 ### Build Settings
 
@@ -13,3 +14,9 @@ Apple Opensource
 * 去掉 order file。
 * 添加自定义宏 PRIVATE。
 * 关闭 bitcode。
+
+## 调试
+
+libmalloc_stress_test
+
+# 
