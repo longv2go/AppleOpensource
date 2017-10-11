@@ -19,4 +19,19 @@ Apple Opensource
 
 libmalloc_stress_test
 
-# 
+# libdispatch
+
+## 变更
+
+### Build Settings
+
+TODO:
+
+## 调试
+
+TODO:
+
+## 可编译 Targets
+
+* libdispatch introspection
+* libdispatch dyld stub 
