@@ -1,7 +1,7 @@
 Apple Opensource
 ------
 
-可编译的苹果开源基础库，以下所有的库都需要配置都需要配置 [Additional SDK](https://github.com/longv2go/iPhoneOS_Additional_SDK)。
+可编译的苹果开源基础库，以下所有的库都需要配置 [Additional SDK](https://github.com/longv2go/iPhoneOS_Additional_SDK)。
 
 
 # libmalloc
