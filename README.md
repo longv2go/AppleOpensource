@@ -35,3 +35,12 @@ TODO:
 
 * libdispatch introspection
 * libdispatch dyld stub 
+
+# objc4
+
+## 变更
+* 去掉 bitcode
+* 去掉 -lCrashReporterClient
+
+## 调试
+TODO:
